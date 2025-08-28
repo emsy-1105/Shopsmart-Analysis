@@ -4,7 +4,9 @@ This is a an analysis for shopsmart Supermarket
   View Boutique Dashboard Image
 </a>
 
-<img width="919" height="1220" alt="AFtmAafTnr" src="https://github.com/user-attachments/assets/00f7aea3-a647-4c62-a596-b778e1db730e" />
+
+<img width="921" height="802" alt="Nwup68jaQT" src="https://github.com/user-attachments/assets/f27bdf65-8b3b-49f8-9a8f-7b01148a006b" />
+
 
 
 
